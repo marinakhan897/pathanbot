@@ -256,7 +256,7 @@ setTimeout(() => {a({body: `${n} GANDU TERI GAND FAT JAEGI BSDK MADHARCHOD KUTIA
 
   
 
- // setTimeout(() => {a({body: "NIKAL MADHARCHOD RANDI K PILLE"})} , 1500);
+ // setTimeout(() => {a({body: "NIKAL MADHARCHOD RANDI K PILLE"})} , 2000);
 
 
 
